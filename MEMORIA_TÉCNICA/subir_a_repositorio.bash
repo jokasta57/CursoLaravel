@@ -12,6 +12,9 @@ git remote set-url origin https://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@githu
 
 git remote set-url origin https://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@github.com/jokasta57/CursoLaravel.git
 
-git remote set-url origin https://github.com/jokasta57/CursoLaravel.git
-
 pass: 1702gustavo
+
+
+# comprobar
+git config --global user.
+git config --global user.email
